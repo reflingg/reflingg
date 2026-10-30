@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Reflin (Moses Olayinka)👋
+
+I'm on a 12-month journey to become an **AI Engineer**, building apps with LLMs, agents and machine learning.
+
+## 🎯 Current focus
+- Phase 1: Python and SQL foundations
+- Next up: machine learning basics and PyTorch
+
+## 🛠️ Tools I'm learning
+Python · SQL · Git · FastAPI · VS Code
+
+## 📚 Learning in public
+I log my progress every week in [learning-log](https://github.com/reflingg/learning-log).
+
+## 📫 Contact
+- LinkedIn: (add your link)
