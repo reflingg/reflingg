@@ -29,4 +29,4 @@ Python · SQL · Git · FastAPI · VS Code
 I log my progress every week in [learning-log](https://github.com/reflingg/learning-log).
 
 ## 📫 Contact
-- LinkedIn: (add your link)
+- LinkedIn: (https://www.linkedin.com/in/moses-olayinka-a892bb297/)
